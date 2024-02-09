@@ -1,0 +1,5 @@
+.env
+fraud-detection-dataset.zip
+Data/
+.virtual_documents
+.ipynb_checkpoints
