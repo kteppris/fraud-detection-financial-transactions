@@ -1,3 +1,5 @@
 kaggle
 ipykernel
 python-dotenv
+pandas==2.2.0
+numpy
