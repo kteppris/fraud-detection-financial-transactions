@@ -37,10 +37,6 @@ This project can be executed using a variety of tools and technologies, includin
 - **Jupyter Notebooks**: For interactive development and documentation of data exploration and model development processes.
 - **Kaggle**: For accessing the dataset and potentially utilizing Kaggle Kernels for development and collaboration.
 
-## Contributing
-
-Contributions to the project are welcome! If you have suggestions for improving the models, uncovering new insights, or enhancing the project's documentation, please feel free to contribute. You can fork the project, make your changes, and submit a pull request for review.
-
 ## License
 
 Please refer to the Kaggle dataset page for information regarding the dataset's licensing. Ensure any use of the dataset complies with these terms.
